@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://commercialmortgagesbroker.github.io/cmb-leeds-2026-q2-01-leeds-github-pages/sitemap.xml
